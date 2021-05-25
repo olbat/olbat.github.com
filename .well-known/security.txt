@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Canonical: https://olbat.net/.well-known/security.txt
+
+Contact: https://olbat.net/ids/
+
+Encryption: https://olbat.net/files/identities/pgp.asc
+
+Preferred-Languages: en, fr
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEkxPQN5yaOyGcvrV3h45uO5MElREFAl5/gIYACgkQh45uO5ME
+lRFH/A//Z2l4aU4nHaHaxnxlLX5t46Z0dj57qH9vq7fS6taDyn7Yt+Ocsys1Y6An
+J/Q6odzTl+Sc61/kk5aKa4J7eXAaiA9KBvpV+UqQDRikMPAoem+Zc1vWZvipl224
+LnuR9nRuUIWSgftp/+kEPkHLy3p5zCMuPzVbbA5aV5u5UJtpzG8QXvs6MnMnCKZo
+y3hBOQ8RWIfmfEPy4QrviHT8cY8Zg+okRlJsVIj17qza/t9gQT5Xa6HQ7Deij/v9
+gv7N18hJDl/LcCg0dmXtehaa+zl0wCEd301Zl+wArY8s8KY6lUliqwRNFyIZX0c0
+uZNUG75EOtZ//E6gTmnw8MxwQcP0gXHTbsQMKiq0ToXtz8Xa3e4pkygRWIjMrnH0
+JFZU8jc0BIEN5aI5SrQe2r9/mrY0Hrm2UoSZ+5Ny7mHkWOxzAmuQtOzQBVOQpiW/
+0LaFmnN5y2dVtq9OmEViDKYn0v6y9D1VoPq6XnSow9CngNX/9M3KPilq5/DaSzI3
+CbBRI2d8sUXOpUi1v1bbjzdw2NN/eVblkWQpsP3Zh7/yLhbSsefx958GqQAQCfoF
+Bgm94hRJTt186Gox6ZeTZxgmKKTXGzRdA3XK9IU113Np9y+aQrF9iA1vB0bJ+UrL
+m2ueOxvdOU8di+M7jafv6ychUFur/UJeL4ADzodRvuFM1ZLv7vQ=
+=ui5Q
+-----END PGP SIGNATURE-----

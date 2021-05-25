@@ -1,0 +1,81 @@
+---
+projects:
+- group: work
+  repositories:
+  - kadeploy
+  - distem
+- group: personal
+  repositories:
+  - icu.cr
+  - libgen
+  - groinc
+- group: misc
+  repositories:
+  - docker-base-images
+  - dockerfiles
+  - packer-templates
+  - url-filter
+  - mnetbench
+  - neuralnet
+  - vocab
+  - binsh
+  - nvdcve
+  - ws-strategies
+  - learning
+  - fasttext-models-trainer
+  - olbat.github.io
+- group: school
+  repositories:
+  - compiler
+  - ratmaze
+  - jwitter
+  - firewall-rules-analyzer_migrator
+  - robinson-prover
+  - connect4
+  - rushhour
+
+code_snippets:
+- name: binsh
+  language: C
+  description: "Schell script obfuscation tool"
+  url: https://github.com/olbat/misc/tree/master/coding/binsh
+- name: symcrypt
+  language: C
+  description: "XOR-based symetric encrypting/decrypting program"
+  url: https://github.com/olbat/misc/tree/master/coding/symcrypt
+- name: cpubench
+  language: C
+  description: "Simple CPU benchmark tool"
+  url: https://github.com/olbat/misc/tree/master/coding/cpubench
+- name: data_spoofer
+  language: C
+  description: "Discreetly send data over the internet (TCP forging and IP spoofing)"
+  url: https://github.com/olbat/misc/tree/master/coding/data_spoofer
+- name: realtimeclock
+  language: C
+  description: "GNU/Linux kernel module that read the current time from the CMOS"
+  url: https://github.com/olbat/misc/tree/master/coding/realtimeclock
+- name: apidoc
+  language: Ruby
+  description: "REST API documentation generator"
+  url: https://github.com/olbat/misc/tree/master/coding/apidoc
+- name: crypto
+  language: Python
+  description: "Toy implementation of various cryptography algorithms"
+  url: https://github.com/olbat/misc/tree/master/coding/crypto
+
+code_snippets_url: https://github.com/olbat/misc/tree/master/coding
+
+certifications:
+- name: Cryptograpy 1
+  url: https://www.coursera.org/learn/crypto/
+  university:
+    name: Stanford University
+    url: https://www.stanford.edu/
+  certificate:
+    file: files/misc/coursera-VD4ZNB58LWMZ.pdf
+    url: https://www.coursera.org/account/accomplishments/certificate/VD4ZNB58LWMZ
+
+slides:
+- name: Advanced git
+  file: files/slides/advanced-git.pdf

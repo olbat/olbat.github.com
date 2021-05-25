@@ -1,0 +1,85 @@
+==================================================================
+https://keybase.io/olbat
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://olbat.net
+  * I am olbat (https://keybase.io/olbat) on keybase.
+  * I have a public key with fingerprint D1CC 3AE0 5ADA FF27 BEE6  27B7 0B1A 5390 865E 24D7
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101b41af6ec1c9cb5f28f68ffc204857cb1aca872bf6a7b2c2cef05978504bde2eb0a",
+      "fingerprint": "d1cc3ae05adaff27bee627b70b1a5390865e24d7",
+      "host": "keybase.io",
+      "key_id": "0b1a5390865e24d7",
+      "kid": "0101b41af6ec1c9cb5f28f68ffc204857cb1aca872bf6a7b2c2cef05978504bde2eb0a",
+      "uid": "33395ed8221d879d19303eb7a9c36219",
+      "username": "olbat"
+    },
+    "merkle_root": {
+      "ctime": 1575727225,
+      "hash_meta": "128eb297315984724a1db90165b1d3848f106f578098bd7a7bf557035fd74ce6",
+      "seqno": 12669437
+    },
+    "revoke": {
+      "sig_ids": [
+        "e47c2053c04217b50a676e4d2014f1081ecd4fe79eaf396d818d3b2b739084fc0f"
+      ]
+    },
+    "service": {
+      "hostname": "olbat.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1575727225,
+  "expire_in": 157680000,
+  "prev": "c7cb0d00cc42b784d5b10340829bcd5fe2b80197ebb6bc0d9b9234356a1d4692",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtU2tMFUcYBQWjt0WhGESFtmwTWiPg7OxjdlFMMU2LhFJMqUpRb3ZmZ3Hlsgu7
+Vy4PjfWFlSJarKFtKCoEbavWtwlBFDXVBpsr9RHFR6IxhtjWR6L11QCdS2vapP3Z
+/bGb/eZ855zvzMyGqOFhnvA19dbUjRGbYsJP38Zh83/Zs7Kaw7ZeyaVXc8V06EN9
+OnX93mJT59I5wAMei7xmyJTwRCVYMqBiyIphEAhERUIE8xrRFASxIWsIQwIJNYCk
+IkUCItYppBhoXApnmFYRdUod0/IzWp0nRNAokDRdMwyIMKUyeyPA2CRBBYosUSjq
+iDUutN1QBzOHNZemmTarsR/vn/b+jf+ffS8eohMEQZWorkDI6wpSdV4VgEAx0lQi
+yJBXQ0CXOpZWQhna9mHNzy1N4UqoU+yjXse2/aFkid8MrfMSkhBEEEpsOs1d6C2h
+fo218VChGKpI4CVVEREUNV7HKuBlCfO6oIiKwQPZkJACVAXriLk2JAkBQTJ0JBIq
+MxMuLbNspgBlWRUFxCw4tNwupiF11yxioblceiFHRcRi6HIkgQAR8ghLQJORTEUd
+Al5kMgpPiS4aFKlUMwRV1hVe0QUMMQqFLRoEGNz8pSE9p9wkQ/Shffrn/GkW9TNH
+pY7tt4ntY+WFfn+pmx7KxV9ZGsIFKPb+xeDFpqWzI8I6yqnjmrbFpmDI/4iMVpSa
+DvWa1lBZVgB7Qjq0nFEStrFAB4AQkZlVRJ1lBwQRKFDFRJcMCrECeBVRjGVMgK5i
+FQqiIMksa1FW4d8ZQsh8akWMkwVnaf7FDuWWetYOEyLCwj1hiXFJERtje1DTl1OT
+mo4cDDy/VpHDQncqzDMq+nnl3oQx/eNr7j9Oyd3Z7Lz63lnflrKkKcHRXe+fl9bU
+319xK2vthQdbJywac/hYwCE7P6v9+fJTkmmmvfRw3gRLi7eLD05MX3W1debhHSvj
+llTEB5/0Db/cEeitWmZn/zZwZvmcoNnRkPzovC+qfaTvR/qQj7dv7to8IiMltnLK
+3C/6Vv+wO7BFrm6YmdjmVsh6Vs+8vD3D+6Orfz/xla/r3MS2AzmHjNE7ugYGVr+W
+sLf9zMtVN/amFGX0lxQq+RvyOwc3hGfPsCNPT+oZnJ14r6O9d9mkORW7y09u93U+
+xtPWNZ65fiApbPn+gmudm3PymidWRW0tHH+0NyuoPJnZ695LmL+j9ujkuBufv74q
+/mGi5/a4aVH77NqWN07JyQN98qq8upPmiGfvNvPRYxNAd/oLC3pybnry4/outsyV
+Mgu4zm3XI0/GpK693f70xCP3ljvrpxczL3W2ZH4afDur3Tr+/crCVnt0bcebe859
+d+Lj6vP1449+EJxclpD84No7TXWHrnUu2P8JXjLGm7HXDFof3bH2Xf71+NW6yMo0
+7pvGggvd6mBuw6XAnLIjCStmTW6uzLySPyOXTj/7bcyi7NiB7uS67fEo+nRcXlvT
+7LavL3hSqwrKmibdrYmVG0uOJdwYO+6ViIv9ws2cUdtqLu5Kjqy5u64hLe1Z86NN
+Y588WJ+SesoMBN9af+f4/pHdV1I/7JvemvUH
+=eUJj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/olbat
+
+==================================================================

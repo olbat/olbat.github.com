@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fa-minify": "^5.8.2",
+    "trianglify": "^3.0.0",
+    "uglify-js": "^3.13.7",
+    "uncss": "^0.17.3"
+  }
+}

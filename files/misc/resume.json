@@ -1,0 +1,427 @@
+{
+	"basics": {
+		"email": "contact＠olbat.net",
+		"name": "Luc Sarzyniec",
+		"label": "Software Engineer",
+		"url": "https://olbat.net/",
+		"summary": "Software Engineer",
+		"location": {
+			"city": "Amsterdam",
+			"countryCode": "NL"
+		},
+		"profiles": [
+			{
+				"network": "Keybase",
+				"username": "olbat",
+				"url": "https://keybase.io/olbat"
+			},
+			{
+				"network": "LinkedIn",
+				"username": "lucsarzyniec",
+				"url": "https://www.linkedin.com/in/lucsarzyniec"
+			},
+			{
+				"network": "ResearchGate",
+				"username": "Luc_Sarzyniec",
+				"url": "https://www.researchgate.net/profile/Luc_Sarzyniec"
+			},
+			{
+				"network": "GitHub",
+				"username": "olbat",
+				"url": "https://github.com/olbat"
+			},
+			{
+				"network": "GitLab",
+				"username": "olbat",
+				"url": "https://gitlab.com/olbat"
+			}
+		]
+	},
+	"work": [
+		{
+			"company": "Booking.com",
+			"position": "Backend Software Developer",
+			"url": "https://www.booking.com/",
+			"startDate": "2018-10-01",
+			"summary": "Working in a team that deals with third-party inventory."
+		},
+		{
+			"company": "Qwant",
+			"position": "Senior Software Engineer",
+			"url": "https://www.qwant.com/",
+			"startDate": "2017-11-11",
+			"endDate": "2018-08-10",
+			"summary": "Tech leader in a team of the shopping department: developed a product classification library based on the Viterbi algorithm, word embedding, similarity calculation methods. Used the library to create a RESTful service.\n\nThen tech leader in a team of the knowledge department: developed a solution to extract, filter and transform metadata from the \"infoboxes\" found in Wikipedia articles using the DBpedia ontology and multilingual Wikipedia→DBpedia mappings.",
+			"highlights": [
+				"Product classification",
+				"Dynamic programming",
+				"Similarity measurement",
+				"Knowledge engineering",
+				"Technologies: Python, fastText, flask, REST, word embedding, DBpedia, OWL, Docker, GitLab, Automation, CI"
+			]
+		},
+		{
+			"company": "Xilopix",
+			"position": "Senior Software Engineer - Parallel Processing",
+			"url": "https://www.xaphir.com/",
+			"startDate": "2014-09-01",
+			"endDate": "2017-11-10",
+			"summary": "Working in the Parallel Processing department in the team that developed the Xaphir/Xilopix search engine's core. Orchestrated the integration of a dozen libraries developed at the company into a single unified image several times per month.\nDeveloped from scratch a distributed computing framework. Bootstrapped and supervised the development of a distributed web crawler/scraper. Both software were used in the search engine's indexing chain to index millions of web pages per day.\nThe computing framework allowed to build complex and dynamic pipelines to distribute and perform various kind of computation tasks. A module system was created to quickly develop and deploy new components as well as their resources (ML models, ...). It was possible to setup different priority policies to handle jobs during their processing.",
+			"highlights": [
+				"HPC & Distributed computing",
+				"Web crawling/scraping",
+				"Machine learning",
+				"Technologies: Ruby, Python, RabbitMQ, MongoDB, Redis, Elasticsearch, Docker, Neural networks, Protobuf, REST, Test Units, Continuous integration, Automation, Code review, Gerrit, Jenkins"
+			]
+		},
+		{
+			"company": "Inria",
+			"position": "System Engineer - High Performance Computing",
+			"url": "https://www.inria.fr/",
+			"startDate": "2013-10-01",
+			"endDate": "2014-06-01",
+			"summary": "Worked in a research team that deals with High Performance Computing. Administrated and improved the Grid'5000 platform.\nIntegrated the Kadeploy3 REST API in the Grid'5000 one. Created and maintained Puppet recipes used to install and configure the services of the infrastructure. Developed scripts and tools for the users of the platform. Day by day administration, user support, issue resolution, supervision, automation.",
+			"highlights": [
+				"HPC Administration",
+				"Large scale and parallel experimentation",
+				"Virtualization",
+				"Technologies: Ruby, Puppet, Xen/KVM/libvirt, Debian packaging, Rubygems"
+			]
+		},
+		{
+			"company": "Inria",
+			"position": "Software Engineer - High Performance Computing",
+			"url": "https://www.inria.fr/",
+			"startDate": "2011-10-01",
+			"endDate": "2013-10-01",
+			"summary": "Worked on the Kadeploy3 software in a team that deals with High Performance Computing and in collaboration with the Grid'5000 (www.grid5000.fr) administration team.\nImproved and maintained the software that is used in production on the Grid'5000 platform. Refactored the core's deployment automata that allows to deploy nodes following customisable and fail-tolerant workflows. Create a REST API to replace the RPC one. Add new features such as the support of new type of filesystem images and new ways to perform PXE netboots. Benchmarked the software, deployed 4000 VMs dispatched on 600+ physical machines localised on 5 different sites using a single Kadeploy3 service and TFTP server.",
+			"highlights": [
+				"MaaS",
+				"Deployment solution",
+				"Netboot",
+				"Disk cloning",
+				"Parallel programming",
+				"Technologies: Ruby, MySQL, REST, PXE netboot, Qemu/KVM, Gerrit, Jenkins, Test units, Blackbox tests, Automation"
+			]
+		},
+		{
+			"company": "Loria",
+			"position": "Junior Software Engineer - High Performance Computing",
+			"url": "https://www.loria.fr/",
+			"startDate": "2011-02-01",
+			"endDate": "2011-10-01",
+			"summary": "Worked within a High Performance Computing research team. Developed from scratch the Distem software which is using GNU/Linux core features (such as control groups and namespaces) to shape LXC containers matching specific needs in terms of CPU, memory, network bandwidth/latency, etc. . Used complex Linux tc filters to reshape network capabilities of the containers. Implemented several CPU burning algorithms to emulate user-specified CPU frequencies. Designed a REST API to control the service.",
+			"highlights": [
+				"Cloud computing",
+				"Software emulation",
+				"Traffic shaping",
+				"Containerisation",
+				"Large scale and parallel experimentation",
+				"Technologies: Ruby, Sinatra, C, LXC, cgroups, Linux Kernel, tc, cpufreq"
+			]
+		},
+		{
+			"company": "Loria / Université de Lorraine",
+			"position": "Intern - Machine Learning",
+			"url": "https://www.loria.fr/",
+			"startDate": "2010-04-01",
+			"endDate": "2010-08-01",
+			"summary": "Reinforcement learning of a complex task by splitting it into several sub-tasks. Simultaneous improvement of motion and sensing skills of the agent. Practical application and testing on a robot.",
+			"highlights": [
+				"Neural networks",
+				"Reinforcement learning",
+				"Q-learning",
+				"HMM",
+				"Technologies: C++, Urbi"
+			]
+		},
+		{
+			"company": "Direction Régional de la jeunesse, des sports et de la cohésion sociale (DRJSCS)",
+			"position": "IT consultant - Web",
+			"url": "https://www.drdjs-lorraine.jeunesse-sports.gouv.fr/",
+			"startDate": "2009-10-01",
+			"endDate": "2010-03-01",
+			"summary": "Needs analysis, conception and development of a generic training management tool for professional sportsmen.",
+			"highlights": [
+				"Technologies: PHP, MySQL, CakePHP, HTML, CSS, Javascript"
+			]
+		},
+		{
+			"company": "Almerine (SME)",
+			"position": "Intern - Web",
+			"startDate": "2009-06-01",
+			"endDate": "2009-08-01",
+			"summary": "Refactoring of a of a billing software package. Design of a new database, duplicate fields detection, migration script (tens of thousands refs). Built a new interface for the website.",
+			"highlights": [
+				"Technologies: PHP, MySQL, HTML, CSS, Javascript"
+			]
+		},
+		{
+			"company": "Université de Lorraine",
+			"position": "Student - Rewriting",
+			"url": "https://www.univ-lorraine.fr/",
+			"startDate": "2009-02-01",
+			"endDate": "2009-05-01",
+			"summary": "Build a firewall rules migration system: firewall files parsing, common abstract syntax tree representation, rules integrity checking, rules simplification, firewall file generation.",
+			"highlights": [
+				"Technologies: Java, Gom/Tom, netfilter/iptables, packet filter"
+			]
+		},
+		{
+			"company": "NEWI",
+			"position": "Intern - Linux Administration",
+			"url": "https://www.glyndwr.ac.uk/",
+			"startDate": "2007-04-01",
+			"endDate": "2007-07-01",
+			"summary": "Setting up a secure networking infrastructure (web services, mail, LDAP) using free softwares. Benchmarks and comparison with a proprietary-software based solution.",
+			"highlights": [
+				"Technologies: iptables/netfilter, Apache2, Postfix, LDAP, ASP.Net"
+			]
+		}
+	],
+	"projects": [
+		{
+			"name": "Qwant search engine",
+			"startDate": "2013",
+			"type": "Professional",
+			"url": "https://www.qwant.com/",
+			"summary": "Based and designed in Europe, Qwant is a search engine which protects its users freedoms and ensures that the digital ecosystem remains healthy. Two keywords: privacy and neutrality. The website processes over 10 million search requests per day and over 60 million individual users a month worldwide.",
+			"highlights": [
+				"Product classification",
+				"Dynamic programming",
+				"Similarity measurement",
+				"Knowledge engineering"
+			]
+		},
+		{
+			"name": "Xaphir search engine",
+			"startDate": "2013",
+			"endDate": "2017",
+			"type": "Professional",
+			"url": "https://xaphir.com/",
+			"summary": "Search engine launched in 2016 that allowed users to perform their research in an iterative way. The search engine had his own web crawling system and indexing chain. It shut down in November 2017 when the company was bought by Qwant.",
+			"highlights": [
+				"HPC & Distributed computing",
+				"Web crawling/scraping",
+				"Machine learning"
+			]
+		},
+		{
+			"name": "Kadeploy3",
+			"startDate": "2009",
+			"type": "Professional",
+			"url": "https://kadeploy3.gforge.inria.fr/",
+			"summary": "Deployment solution for cluster and grid computing. Set of tools for cloning, configuring and managing cluster nodes. Deploying systems on hundreds of nodes in a few minutes without any intervention of the system administrator. It plays a key role on the Grid'5000 testbed, where it allows users to reconfigure the software environment of the nodes.",
+			"highlights": [
+				"MaaS",
+				"Deployment solution",
+				"Netboot",
+				"Disk cloning"
+			]
+		},
+		{
+			"name": "Distem",
+			"startDate": "2010",
+			"type": "Professional",
+			"url": "https://distem.gforge.inria.fr/",
+			"summary": "Distributed systems emulator that allows to transformation of an homogeneous cluster into an experimental platform where nodes have diﬀerent performances and are linked together through a complex network topology. Breaking down physical resources performances.",
+			"highlights": [
+				"Cloud computing",
+				"Software emulation",
+				"Traffic shaping",
+				"Containerisation",
+				"Large scale and parallel experimentation"
+			]
+		},
+		{
+			"name": "Grid'5000",
+			"startDate": "2004-03-01",
+			"url": "https://www.grid5000.fr",
+			"summary": "Scientific instrument designed to support experiment-driven research in all areas of computer science related to parallel, large-scale or distributed computing and networking. The infrastructure of Grid'5000 is geographically distributed on different sites hosting the instrument (10 in 2011). It is composed of more than one thousand machines dispatched on about 30 clusters.",
+			"highlights": [
+				"HPC Administration",
+				"Large scale and parallel experimentation",
+				"Virtualization"
+			]
+		},
+		{
+			"name": "Libgen",
+			"startDate": "2017-03",
+			"type": "Personal",
+			"url": "https://olbat.github.io/libgen/",
+			"summary": "Automatic Crystal C-bindings generator.",
+			"highlights": [
+				"Code generation",
+				"Binding generator"
+			]
+		},
+		{
+			"name": "icu.cr",
+			"startDate": "2017-04",
+			"type": "Personal",
+			"url": "https://olbat.github.io/icu.cr/",
+			"summary": "Crystal binding/wrapper to the ICU library.",
+			"highlights": [
+				"Internationalization"
+			]
+		},
+		{
+			"name": "Groinc",
+			"startDate": "2006-06",
+			"endDate": "2010-06",
+			"type": "Personal",
+			"url": "https://savannah.nongnu.org/projects/groinc",
+			"summary": "A simple Ethernet packet sniffer/analyzer.",
+			"highlights": [
+				"Network",
+				"Packet sniffer"
+			]
+		}
+	],
+	"education": [
+		{
+			"institution": "Université Henri Poincaré",
+			"area": "Research in computer sciences",
+			"studyType": "Master of Computer Applications (MCA)",
+			"startDate": "2010-09",
+			"endDate": "2011-06"
+		},
+		{
+			"institution": "Telecom Nancy",
+			"area": "Software engineering",
+			"studyType": "Master of Computer Applications (MCA)",
+			"startDate": "2007-09",
+			"endDate": "2010-06"
+		},
+		{
+			"institution": "North East Wales Institute of Higher Education",
+			"area": "Software engineering",
+			"studyType": "DUT",
+			"startDate": "2007-03",
+			"endDate": "2007-06"
+		},
+		{
+			"institution": "IUT Charlemagne",
+			"area": "Software engineering",
+			"studyType": "DUT",
+			"gpa": "",
+			"courses": [],
+			"startDate": "2005-09",
+			"endDate": "2007-06"
+		}
+	],
+	"skills": [
+		{
+			"name": "High performance computing / Distributed Systems",
+			"level": "",
+			"keywords": ["Producer-consumer", "IPC", "Concurrency control", "Concurrent & Parallel programming", "Multiprocessing", "Multithreading", "Co-operative multitasking"]
+		},
+		{
+			"name": "Web crawling / Web scraping",
+			"level": "",
+			"keywords": ["HTTP", "Structured data", "Microdata", "Metadata", "XPath", "XML", "SAX", "SEO"]
+		},
+		{
+			"name": "Machine Learning",
+			"level": "",
+			"keywords": ["Neural Networks", "Reinforcement Learning", "Q-learning", "HMM"]
+		},
+		{
+			"name": "Programming languages",
+			"level": "",
+			"keywords": ["Python", "Ruby", "C", "Crystal", "Shell", "Java"]
+		},
+		{
+			"name": "Backends",
+			"level": "",
+			"keywords": ["RabbitMQ", "MongoDB", "Redis", "Elasticsearch", "*SQL", "JanusGraph"]
+		},
+		{
+			"name": "Software Engineering",
+			"level": "",
+			"keywords": ["Test units", "Continous integration", "Code review", "Automation", "Open source"]
+		},
+		{
+			"name": "Software Engineering tools",
+			"level": "",
+			"keywords": ["Git", "Docker", "GitHub", "Gitlab", "Gerrit", "Jenkins", "Travis CI", "Kubernetes"]
+		},
+
+		{
+			"name": "System",
+			"level": "",
+			"keywords": ["Containers", "Virtualization", "GNU/Linux"]
+		},
+		{
+			"name": "REST APIs",
+			"level": "",
+			"keywords": ["HTTP", "OAS/Swagger", "Flask", "Sinatra"]
+		}
+	],
+	"awards": [{
+		"title": "1st place at the Grid'5000 Winter School challenge",
+		"date": "2012-11-01",
+		"awarder": "Grid'5000"
+	}],
+	"publications": [
+		{
+			"name": "Kadeploy3: Efficient and Scalable Operating System Provisioning for Clusters",
+			"publisher": "Usenix ;login:",
+			"releaseDate": "2013-02",
+			"url": "https://www.usenix.org/publications/login/february-2013-volume-38-number-1"
+		},
+		{
+			"name": "Design and Evaluation of a Virtual Experimental Environment for Distributed Systems",
+			"publisher": "PDP'2013",
+			"releaseDate": "2013",
+			"url": "https://hal.inria.fr/hal-00724308/en"
+		},
+		{
+			"name": "Adding virtualization Capabilities to Grid'5000",
+			"publisher": "CLOSER'2012",
+			"releaseDate": "2012",
+			"url": "https://hal.inria.fr/hal-00946971/en"
+		},
+		{
+			"name": "Kadeploy3 Efficient and Scalable Operating System Provisioning for HPC Clusters",
+			"publisher": "Inria",
+			"releaseDate": "2012",
+			"url": "https://hal.inria.fr/hal-00710638/en"
+		},
+		{
+			"name": "Scalability Testing of the Kadeploy Cluster Deployment System using Virtual Machines on Grid'5000",
+			"publisher": "CCGRID'2012",
+			"releaseDate": "2012",
+			"url": "https://hal.inria.fr/hal-00700962/en"
+		},
+		{
+			"name": "Apprentissage par Renforcement Développemental en Robotique Autonome",
+			"publisher": "CAP'2011",
+			"releaseDate": "2011",
+			"url": "https://hal.inria.fr/inria-00633426/en"
+		}
+	],
+	"interests": [
+		{ "name": "Free/Libre and open source software" },
+		{ "name": "Video games, raid leading" },
+		{ "name": "Board and role playing games" }
+	],
+	"languages": [
+		{
+			"language": "English",
+			"fluency": "Full professional"
+		},
+		{
+			"language": "French",
+			"fluency": "Native or bilingual"
+		},
+		{
+			"language": "German",
+			"fluency": "Elementary"
+		},
+		{
+			"language": "Japanese",
+			"fluency": "Elementary"
+		}
+	]
+}

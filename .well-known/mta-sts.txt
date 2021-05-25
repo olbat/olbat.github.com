@@ -1,0 +1,4 @@
+version: STSv1
+mode: testing
+mx: *.messagingengine.com
+max_age: 172800

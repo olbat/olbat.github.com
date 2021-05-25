@@ -1,0 +1,35 @@
+{
+  "projects": [
+    {
+      "name": "Xaphir search engine",
+      "startDate": "2013",
+      "summary": "A French search engine that provides users a new search experience allowing them to refine their search results an iterative (and tactile) way. The team develops it's own robot to crawl the web, extract analyze and index it's content. Results are displayed to users focussing on privacy and content diversity.",
+      "website": "https://xaphir.com/"
+    },
+    {
+      "name": "Kadeploy3",
+      "startDate": "2009",
+      "summary": "Kadeploy is a scalable, efficient and reliable deployment system (cluster provisioning solution) for cluster and grid computing. It provides a set of tools for cloning, configuring and managing cluster nodes. It can deploy a 1000-nodes cluster in a few minutes, without intervention from the system administrator.\nIt plays a key role on the Grid'5000 testbed, where it allows users to reconfigure the software environment on the nodes.",
+      "website": "https://kadeploy3.gforge.inria.fr/"
+    },
+    {
+      "name": "Distem",
+      "startDate": "2010",
+      "summary": "Distem is a distributed systems emulator. When doing research on Cloud, P2P, High Performance Computing or Grid systems, it can be used to transform an homogenenous cluster (composed of identical nodes) into an experimental platform where nodes have different performance, and are linked together through a complex network topology, making it the ideal tool to benchmark applications targetting such environments.",
+      "website": "https://distem.gforge.inria.fr/"
+    },
+    {
+      "name": "Groinc",
+      "startDate": "2006-06",
+      "endDate": "2010-06",
+      "summary": "A a simple Ethernet sniffer/analyzer with several filtering and display options.",
+      "website": "http://savannah.nongnu.org/projects/groinc"
+    },
+    {
+      "name": "Grid'5000",
+      "startDate": "2004-03-01",
+      "summary": "Grid'5000 is a scientific instrument designed to support experiment-driven research in all areas of computer science related to parallel, large-scale or distributed computing and networking.\nThe infrastructure of Grid'5000 is geographically distributed on different sites hosting the instrument (10 in 2011). It is composed of more than one thousand machines dispatched on about 30 clusters.",
+      "website": "https://www.grid5000.fr"
+    }
+  ]
+}
