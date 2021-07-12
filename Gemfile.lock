@@ -105,7 +105,7 @@ GEM
     rdf (2.2.12)
       hamster (~> 3.0)
       link_header (~> 0.0, >= 0.0.8)
-    rexml (3.2.4)
+    rexml (3.2.5)
     rouge (3.25.0)
     ruby2_keywords (0.0.2)
     safe_yaml (1.0.5)
