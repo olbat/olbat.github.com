@@ -6,7 +6,7 @@ gem "jekyll-github-metadata", "~> 2.13.0"
 group :production do
   gem "htmlcompressor", "~> 0.4.0"
   gem "yui-compressor", "~> 0.12.0"
-  gem "nokogiri", "~> 1.11.0"
+  gem "nokogiri", "~> 1.11.4"
   gem "json-ld", "~> 2.1.0"
 end
 
